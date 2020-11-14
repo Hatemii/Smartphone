@@ -105,3 +105,12 @@ nav {
   bottom: 150px;
   right: 350px;
 }
+
+.mobile {
+  width:200px;
+  position: absolute;
+  top: 50%;
+  left:35%;
+  transform: translateY(-50%);
+  z-index: 1;
+}
